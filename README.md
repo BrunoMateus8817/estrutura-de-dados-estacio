@@ -1,4 +1,8 @@
 # Exemplos de Estrutura de Dados em C - Engenharia de Software (Estácio)
+![GitHub repo size](https://img.shields.io/github/repo-size/BrunoMateus8817/estrutura-de-dados-estacio)
+![GitHub language count](https://img.shields.io/github/languages/count/BrunoMateus8817/estrutura-de-dados-estacio)
+![GitHub top language](https://img.shields.io/github/languages/top/BrunoMateus8817/estrutura-de-dados-estacio)
+![GitHub last commit](https://img.shields.io/github/last-commit/BrunoMateus8817/estrutura-de-dados-estacio)
 
 Este repositório contém exemplos práticos em linguagem **C** para fixação dos conceitos de **Estrutura de Dados**, desenvolvidos durante meus estudos na graduação em Engenharia de Software (Estácio).
 
