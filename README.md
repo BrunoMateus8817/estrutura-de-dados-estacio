@@ -3,6 +3,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BrunoMateus8817/estrutura-de-dados-estacio)
 ![GitHub top language](https://img.shields.io/github/languages/top/BrunoMateus8817/estrutura-de-dados-estacio)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BrunoMateus8817/estrutura-de-dados-estacio)
+![Banner do Repositório](banner-estrutura-de-dados.png)
 
 Este repositório contém exemplos práticos em linguagem **C** para fixação dos conceitos de **Estrutura de Dados**, desenvolvidos durante meus estudos na graduação em Engenharia de Software (Estácio).
 
