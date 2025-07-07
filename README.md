@@ -16,19 +16,78 @@ Os exemplos abordam:
 
 ---
 
-## 📂 Conteúdo
+## 📚 Conteúdo
 
-- `c-pointers-basic-example.c`: Uso básico de ponteiros em C.
-- `c-variable-allocation-examples.c`: Alocação de variáveis estáticas e automáticas em C.
-- `c-struct-aluno-example.c`: Uso básico de `struct` para cadastro de aluno.
-- `c-struct-aluno-cadastro.c`: Cadastro de aluno com leitura de dados usando `struct`.
-- `c-struct-aninhada-data-aluno.c`: Uso de `struct` aninhada para data de nascimento.
-- `c-typedef-struct-data-aluno.c`: Uso de `typedef` com `struct` para cadastro de aluno.
-- `c-typedef-structs-aninhadas.c`: Uso de `typedef` com `structs` aninhadas.
-- `c-structs-aninhadas-funcionario.c`: Cadastro de funcionário com `structs` aninhadas.
-- `c-vetor-struct-alunos.c`: Vetor de `struct` para cadastro de múltiplos alunos.
+✅ Alocação e Vetores
 
----
+alocacao_dinamica.c: Alocação dinâmica em C.
+
+alocacao_sequencial.c: Alocação sequencial em C.
+
+✅ Busca
+
+busca_binaria.c: Busca binária recursiva.
+
+busca_lista_encadeada_ordenada.c: Busca em lista encadeada ordenada.
+
+busca_sequencial.c: Busca sequencial simples.
+
+✅ Listas Encadeadas
+
+lista_encadeada_no_simples.c: Definição de nó simples.
+
+lista_simplesmente_encadeada_no.c: Lista simplesmente encadeada.
+
+lista_duplamente_encadeada_no.c: Lista duplamente encadeada.
+
+insercao_lista_encadeada.c: Inserção em lista encadeada.
+
+remocao_lista_encadeada.c: Remoção em lista encadeada.
+
+✅ Pilhas
+
+pilha_push.c: Empilhamento em pilha estática.
+
+pilha_pop.c: Desempilhamento em pilha estática.
+
+pilha_encadeada_push.c: Empilhamento em pilha encadeada.
+
+pilha_encadeada_pop.c: Desempilhamento em pilha encadeada.
+
+✅ Filas
+
+fila_enfileirar.c: Enfileirar em fila estática circular.
+
+fila_desenfileirar.c: Desenfileirar em fila estática circular.
+
+fila_encadeada_enfileirar.c: Enfileirar em fila encadeada.
+
+fila_encadeada_desenfileirar.c: Desenfileirar em fila encadeada.
+
+✅ Ordenação
+
+ordenacao_por_distribuicao.c: Ordenação por distribuição (Radix Sort).
+
+✅ Exemplos com Structs e Ponteiros
+
+c-pointers-basic-example.c: Uso básico de ponteiros.
+
+c-variable-allocation-examples.c: Exemplos de alocação de variáveis.
+
+c-struct-aluno-example.c: Cadastro de alunos usando structs.
+
+c-struct-aluno-cadastro.c: Cadastro completo de alunos.
+
+c-structs-aninhadas-datas-aluno.c: Struct aninhada para datas em cadastro.
+
+c-structs-aninhadas-funcionario.c: Structs aninhadas para cadastro de funcionários.
+
+c-typedef-structs-aninhadas.c: Uso de typedef e structs aninhadas.
+
+c-typedef-structs-aninhadas-mult.c: Struct aninhada com múltiplos alunos.
+
+c-vetor-struct-alunos.c: Vetores de structs para alunos.
+
 
 ## 🚀 Como compilar
 
