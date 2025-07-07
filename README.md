@@ -18,13 +18,13 @@ Os exemplos abordam:
 
 ## 📚 Conteúdo
 
-# ✅ Alocação e Vetores
+### ✅ Alocação e Vetores
 
 alocacao_dinamica.c: Alocação dinâmica em C.
 
 alocacao_sequencial.c: Alocação sequencial em C.
 
-# ✅ Busca
+### ✅ Busca
 
 busca_binaria.c: Busca binária recursiva.
 
@@ -32,7 +32,7 @@ busca_lista_encadeada_ordenada.c: Busca em lista encadeada ordenada.
 
 busca_sequencial.c: Busca sequencial simples.
 
-# ✅ Listas Encadeadas
+### ✅ Listas Encadeadas
 
 lista_encadeada_no_simples.c: Definição de nó simples.
 
@@ -44,7 +44,7 @@ insercao_lista_encadeada.c: Inserção em lista encadeada.
 
 remocao_lista_encadeada.c: Remoção em lista encadeada.
 
-# ✅ Pilhas
+### ✅ Pilhas
 
 pilha_push.c: Empilhamento em pilha estática.
 
@@ -54,7 +54,7 @@ pilha_encadeada_push.c: Empilhamento em pilha encadeada.
 
 pilha_encadeada_pop.c: Desempilhamento em pilha encadeada.
 
-# ✅ Filas
+### ✅ Filas
 
 fila_enfileirar.c: Enfileirar em fila estática circular.
 
@@ -64,11 +64,11 @@ fila_encadeada_enfileirar.c: Enfileirar em fila encadeada.
 
 fila_encadeada_desenfileirar.c: Desenfileirar em fila encadeada.
 
-# ✅ Ordenação
+### ✅ Ordenação
 
 ordenacao_por_distribuicao.c: Ordenação por distribuição (Radix Sort).
 
-# ✅ Exemplos com Structs e Ponteiros
+### ✅ Exemplos com Structs e Ponteiros
 
 c-pointers-basic-example.c: Uso básico de ponteiros.
 
