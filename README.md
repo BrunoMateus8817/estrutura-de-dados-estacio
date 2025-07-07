@@ -18,7 +18,7 @@ Os exemplos abordam:
 
 ## 📚 Conteúdo
 
-##✅ Alocação e Vetores
+## ✅ Alocação e Vetores
 
 alocacao_dinamica.c: Alocação dinâmica em C.
 
